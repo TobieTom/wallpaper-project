@@ -27,9 +27,9 @@ Taiwo Oluwatobi is the repo owner and he contributed to the following parts of t
 - [x] 4. Hosting the website on Netlify
 - [x] 5. Gave the Idea of the project
 - [x] 6. Drew the structure of the website and was the team leader
-- [x] 7. 50% of the HTML of the Home Page
+- [x] 7. 50% of the HTML of the Home Page which includes the sections of Nature and Abstract category
 - [x] 8.  50% of the CSS of the background animation of floating shapes on NATURE, ABSTRACT, LANDSCAPE AND ANIME pages
-- [x] 9. 50% of the CSS code for the HOME PAGE
+- [x] 9. 50% of the CSS code for the HOME PAGE which includes the styling of the footer and the Nature and Abstract sections
 
 
 
@@ -48,7 +48,7 @@ Oyedeji Tomiwa contributed to the following parts of the project:
 
 - [x] 1. 50% of the HTML code of the Home Page mainly the grid sections concerning the Anime and Landscape section
 - [x] 2. Define every id and the classes for the Home Page section
-- [x] 3. 50% of the CSS code for the Home Page
+- [x] 3. 50% of the CSS code for the Home Page which includes the styling of the header and the Landscape and Anime sections
 - [x] 4. Added the download buttons
 
 #### Ozoh Collins Ebele
