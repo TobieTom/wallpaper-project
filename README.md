@@ -46,8 +46,8 @@ Otika Nelson contributed to the following parts of the project:
 
 Oyedeji Tomiwa contributed to the following parts of the project:
 
-- [x] 1. 50% of the HTML code which includes the Home Page
-- [x] 2. Define the id and the classes for the Home Page section
+- [x] 1. 50% of the HTML code of the Home Page mainly the grid sections concerning the Anime and Landscape section
+- [x] 2. Define every id and the classes for the Home Page section
 - [x] 3. 50% of the CSS code for the Home Page
 - [x] 4. Added the download buttons
 
